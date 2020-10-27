@@ -9,3 +9,7 @@ class Dog
 end
 
 
+class Dog 
+end 
+
+snoopy = Dog.new
